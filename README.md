@@ -1,97 +1,97 @@
-
 <div align="center">
-
-<!-- ANIMIRANI NASLOV -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=🚀+BELMIN+HARACIC+🚀;💻+FULL+STACK+DEVELOPER+💻;🔥+PORTFOLIO+READY+🔥" alt="Typing SVG" />
-
-<!-- PORTFOLIO BADGE -->
-<br>
-<a href="https://belminharacic-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00FF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-</a>
-
-<br>
-<br>
-
-<!-- STATS -->
-<img src="https://komarev.com/ghpvc/?username=belminharacic&label=PROFILE+VIEWS&color=00FF00&style=flat-square" />
-<img src="https://img.shields.io/github/followers/belminharacic?label=FOLLOWERS&color=00FF00&style=flat-square" />
-
-</div>
-
-## 👨‍💻 **ABOUT ME**
-
-```javascript
-const belmin = {
-  name: "Belmin Haracic",
-  role: "Full Stack Developer",
-  location: "Bosnia and Herzegovina",
-  portfolio: "https://belminharacic-portfolio.vercel.app/",
-  passion: "Creating digital solutions that make impact",
-  currentFocus: "Building scalable web applications",
-  funFact: "I turn coffee ☕ into code 💻"
-};
-```
-
-## 🛠️ **TECH STACK**
-
-**Frontend:**  
-`React` `Next.js` `TypeScript` `TailwindCSS` `Bootstrap` `HTML` `CSS`
-
-**Backend:**  
-`Node.js` `Express.js` `Python` `Java` `Spring Boot`
-
-**Databases:**  
-`MongoDB` `PostgreSQL` `MySQL`
-
-**Tools & DevOps:**  
-`Docker` `Git` `VS Code` `Linux` `AWS`
-
-## 📊 **GITHUB STATS**
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=belminharacic&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&icon_color=00FF00&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belminharacic&layout=compact&theme=dark&bg_color=000000&title_color=00FF00&hide_border=true" height="165"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belminharacic&theme=dark&background=000000&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="165"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00FFF6&center=true&vCenter=true&width=700&lines=HELLO+WORLD!+I'M+BELMIN+HARAČIĆ;FRONTEND+DEVELOPER;REACT.JS+%7C+NEXT.JS+%7C+JAVASCRIPT;WELCOME+TO+MY+CODE+REALM+🚀" />
 
-</div>
-
-## 🏆 **GITHUB TROPHIES**
-
-<div align="center">
-
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=belminharacic&theme=onedark&no-bg=true&no-frame=true&margin-w=15&row=2&column=4)
-
-</div>
-
-## 🔥 **FEATURED PROJECTS**
-
-<div align="center">
-
-[![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=belminharacic&repo=readme-generator&theme=dark&bg_color=000000&title_color=00FF00&border_color=00FF00)](https://github.com/belminharacic/readme-generator)
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=belminharacic&repo=task-manager&theme=dark&bg_color=000000&title_color=00FF00&border_color=00FF00)](https://github.com/belminharacic/task-manager)
-
-</div>
-
-## 🌐 **LET'S CONNECT**
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://belminharacic-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/belminharacic)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<img src="https://raw.githubusercontent.com/BelminHaracic/BelminHaracic/main/banner.gif" width="100%" alt="banner"/>
 
 </div>
 
 ---
 
+<h2 align="center">⚡ DIGITAL CRAFTSMAN • REACT ENGINEER • UI CREATOR ⚡</h2>
+
+<p align="center">
+  <a href="https://belminharacic-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00FFF6?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="mailto:belmin@example.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-00FFF6?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFF6?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🧬 About Me
+
+💥 **Frontend Developer** iz Bosne i Hercegovine  
+🧠 Fokusiran na **moderni dizajn, UX i performanse**  
+⚙️ Koristim **React.js, Next.js, TailwindCSS, TypeScript**  
+🎯 Moj cilj: pretvoriti ideje u interaktivne digitalne doživljaje  
+🌌 Trenutno istražujem **Framer Motion & 3D Web (Three.js)**  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
 <div align="center">
 
-### 🐍 **CONTRIBUTION SNAKE**
-![Snake animation](https://github.com/belminharacic/belminharacic/blob/output/github-contribution-grid-snake.svg)
+#### ⚡ [🌐 Portfolio Website](https://belminharacic-portfolio.vercel.app/)
+> Moj lični digitalni svijet — čist, brz, animiran, responzivan.  
+> 💻 React + Tailwind + Framer Motion  
 
-**⭐ Don't forget to check out my portfolio above!**
+#### 🔥 UI Motion Experiments *(u izradi)*
+> Kolekcija mikro-animacija i interaktivnih komponenti za web.  
+
+#### 🧠 Code Playground *(uskoro)*
+> Showcase custom hookova, trikova i mini projekata.  
+
+</div>
+
+---
+
+### 📊 GitHub Power Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BelminHaracic&show_icons=true&theme=neon&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BelminHaracic&theme=neon&hide_border=true" />
+</div>
+
+---
+
+### 🪄 A Touch of Aesthetics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BelminHaracic&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+### 🧠 Quote of the Code
+> "Design is intelligence made visible. Code is that intelligence brought to life."
+
+---
+
+<h3 align="center">🚀 See you in the commit history.</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/HUkOv6BNWc1HO/source.gif" width="220">
+</p>
+
+---
+
+<div align="center">
+  
+🛠️ Built with ❤️ by **Belmin Haračić**
 
 </div>
