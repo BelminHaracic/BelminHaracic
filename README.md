@@ -162,15 +162,3 @@ dev.unleash_power()
 **💀 "I don't always test my code... but when I do, I do it in production" 💀**
 
 </div>
-```
-
-Ovo je **ULTRA BRUTAL** verzija sa:
-- 🔥 Crveno-crna tema kao u igricama
-- 💀 Agresivni badgeovi sa crnom pozadinom
-- ⚡ Animirani divideri
-- 🎮 Gaming vibes
-- 🚨 Upozorenja i brutalni opisi
-- 📊 Stats sa tamnom temom
-- 🐍 Snake animacija
-
-**BRUTALNO ZNATI ŽELJE!** 🔥💀
