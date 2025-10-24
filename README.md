@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00FFF6&center=true&vCenter=true&width=700&lines=I'M+BELMIN+HARAČIĆ;FRONTEND+DEVELOPER;REACT.JS+%7C+NEXT.JS+%7C+JAVASCRIPT;WELCOME+TO+MY+CODE+REALM+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00FFF6&center=true&vCenter=true&width=700&lines=I'M+BELMIN+HARAČIĆ;+%7C+JAVASCRIPT;WELCOME+TO+MY+CODE+REALM+🚀" />
 
 <img src="https://raw.githubusercontent.com/BelminHaracic/BelminHaracic/main/banner.gif" width="100%" alt="banner"/>
 
