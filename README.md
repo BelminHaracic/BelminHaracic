@@ -12,7 +12,6 @@
 
 ## 🎮 **KO SAM JA?**
 
-```javascript
 const belmin = {
   code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
   tech: ["React", "Node.js", "Next.js", "MongoDB", "PostgreSQL"],
