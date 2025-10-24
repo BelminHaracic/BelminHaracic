@@ -1,91 +1,95 @@
+<!-- 💥 BRUTAL MODERN GITHUB PROFILE BY BELMIN HARACIĆ 💥 -->
 
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+BELMIN+HARACIC+⚡;FULL+STACK+DEV+💻;CODE+•+CREATE+•+CONQUER+🚀" alt="Typing SVG" />
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=650&lines=Zdravo%2C+ja+sam+Belmin+Haračić!;Frontend+Developer+iz+Bosne+i+Hercegovine;React.js+%7C+JavaScript+%7C+UI%2FUX+entuzijasta" />
 </h1>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=belminharacic&color=00FF00&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/belminharacic?color=00FF00&style=for-the-badge)
-  
-</div>
+<p align="center">
+  <a href="https://belminharacic-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="mailto:belmin@example.com">
+    <img src="https://img.shields.io/badge/✉️%20Kontakt-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/BelminHaracic">
+    <img src="https://img.shields.io/badge/💻%20GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
-## 🎮 **KO SAM JA?**
+---
 
-const belmin = {
-  code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  tech: ["React", "Node.js", "Next.js", "MongoDB", "PostgreSQL"],
-  passion: "Turning coffee into code ☕→💻",
-  motto: "If it works, don't touch it!",
-  funFact: "I debug with console.log() like a real pro"
-};
-```
+<!-- ABOUT -->
+## 🧠 O meni
+💡 Strastven sam frontend developer fokusiran na **kreiranje elegantnih i brzih web aplikacija**.  
+🔥 Obožavam da spajam dizajn i kod — od ideje do gotovog proizvoda.  
+📚 Stalno učim nove tehnologije i eksperimentišem s modernim JavaScript frameworkima.
 
-## ⚡ **TEHNOLOGIJE KOJE KORISTIM**
+---
 
-**💻 Jezici:**  
-`JavaScript` `TypeScript` `Python` `Java` `C++` `HTML` `CSS`
+<!-- SKILLS -->
+## ⚙️ Tehnologije i alati
 
-**🚀 Frontend:**  
-`React` `Next.js` `TailwindCSS` `Bootstrap`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,git,github,vscode,vercel,figma,linux" />
+</p>
 
-**🔥 Backend:**  
-`Node.js` `Express.js` `Spring Boot`
+---
 
-**🗄️ Baze:**  
-`MongoDB` `PostgreSQL` `MySQL`
-
-**🛠️ Alati:**  
-`Docker` `Git` `VS Code` `Linux`
-
-## 📊 **GITHUB STATISTIKE**
+<!-- FEATURED PROJECTS -->
+## 🚀 Istaknuti projekti
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=belminharacic&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belminharacic&layout=compact&theme=radical&hide_border=true" height="165"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belminharacic&theme=radical&hide_border=true" height="165"/>
-  
-</div>
 
-## 🏆 **GITHUB TROFEE**
+| Projekt | Opis | Link |
+|----------|------|------|
+| 💼 **Portfolio Website** | Moderni React + Tailwind portfolio s animacijama i responzivnim dizajnom | [🔗 Pogledaj](https://belminharacic-portfolio.vercel.app/) |
+| 🎮 **Mini Game Collection** | JavaScript mini igre (Snake, TicTacToe, Memory) | *(uskoro online)* |
+| 🧩 **Open Source UI Kit** | Kolekcija custom React komponenti za brzi dizajn | *(u razvoju)* |
 
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=belminharacic&theme=radical&no-bg=true&no-frame=true&column=7)
-  
-</div>
-
-## 🔥 **MOJI PROJEKTI**
-
-<div align="center">
-  
-  [![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=belminharacic&repo=readme-generator&theme=radical)](https://github.com/belminharacic/readme-generator)
-  [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=belminharacic&repo=task-manager&theme=radical)](https://github.com/belminharacic/task-manager)
-  
-</div>
-
-## 🌐 **KONTAKT**
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/belminharacic)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belmin@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://belmin-dev.com)
-  
 </div>
 
 ---
 
+<!-- STATS -->
+## 📊 GitHub statistika
+
 <div align="center">
-
-### 🐍 **SNAKE ANIMACIJA**
-![Snake animation](https://github.com/belminharacic/belminharacic/blob/output/github-contribution-grid-snake.svg)
-
-**⭐ "If it works, it's probably mine!"**
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BelminHaracic&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelminHaracic&layout=compact&theme=radical&hide_border=true" />
 </div>
-```
 
-**Problem je bio u code blocku!** Trebalo je staviti samo tri backticka umjesto četiri. Sada će se JavaScript kod ispravno prikazati u okviru.
+---
+
+<!-- STREAK -->
+## 🔥 Aktivnost
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BelminHaracic&theme=highcontrast&hide_border=true" />
+</p>
+
+---
+
+<!-- QUOTE -->
+## 💬 Inspiracija
+
+<p align="center">
+  <em>"Kod je umjetnost koja oživljava ideje."</em>  
+</p>
+
+---
+
+<!-- FUN FACTS -->
+## ⚡ Zabavne činjenice
+- 🧠 Trenutno istražujem **Next.js 15** i **Framer Motion**  
+- 🎧 Kodiram uz chillhop & lofi  
+- 💻 Moj stil: minimalizam + performanse  
+- 🧩 Cilj: postati full-stack developer  
+
+---
+
+<!-- FOOTER -->
+<h3 align="center">🌌 Hvala što si svratio!</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</p>
