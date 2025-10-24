@@ -26,23 +26,6 @@
 
 ---
 
-### 🧩 Featured Projects
-
-<div align="center">
-
-#### ⚡ [🌐 Portfolio Website](https://belminharacic-portfolio.vercel.app/)
-> Moj lični digitalni svijet — čist, brz, animiran, responzivan.  
-> 💻 React + Tailwind + Framer Motion  
-
-#### 🔥 UI Motion Experiments *(u izradi)*
-> Kolekcija mikro-animacija i interaktivnih komponenti za web.  
-
-#### 🧠 Code Playground *(uskoro)*
-> Showcase custom hookova, trikova i mini projekata.  
-
-</div>
-
----
 
 ### 📊 GitHub Power Stats
 
@@ -53,7 +36,6 @@
 
 ---
 
-### 🪄 A Touch of Aesthetics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BelminHaracic&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
