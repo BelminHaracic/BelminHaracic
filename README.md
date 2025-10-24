@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+BELMIN+HARACIC+⚡;FULL+STACK+DEV+💻;CODE+•+CREATE+•+CONQUER+🚀" alt="Typing SVG" />
 </h1>
