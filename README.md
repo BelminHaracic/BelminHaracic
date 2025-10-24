@@ -34,12 +34,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BelminHaracic&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
 ### 🧠 Quote of the Code
 > "Design is intelligence made visible. Code is that intelligence brought to life."
 
