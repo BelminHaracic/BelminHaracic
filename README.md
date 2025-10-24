@@ -18,16 +18,6 @@
 
 ---
 
-### 🧬 About Me
-
-💥 **Frontend Developer** iz Bosne i Hercegovine  
-🧠 Fokusiran na **moderni dizajn, UX i performanse**  
-⚙️ Koristim **React.js, Next.js, TailwindCSS, TypeScript**  
-🎯 Moj cilj: pretvoriti ideje u interaktivne digitalne doživljaje  
-🌌 Trenutno istražujem **Framer Motion & 3D Web (Three.js)**  
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
