@@ -26,9 +26,6 @@
 
 ---
 
-
-### 📊 GitHub Power Stats
-
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BelminHaracic&show_icons=true&theme=neon&hide_border=true&count_private=true" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BelminHaracic&theme=neon&hide_border=true" />
