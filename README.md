@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">⚡ DIGITAL CRAFTSMAN • REACT ENGINEER • UI CREATOR ⚡</h2>
+<h2 align="center">⚡ Software Engineer 👨‍💻 ⚡</h2>
 
 <p align="center">
   <a href="https://belminharacic-portfolio.vercel.app/" target="_blank">
