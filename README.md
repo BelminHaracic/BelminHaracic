@@ -14,12 +14,6 @@
   <a href="https://belminharacic-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-00FFF6?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-  <a href="mailto:belmin@example.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-00FFF6?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFF6?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
 </p>
 
 ---
