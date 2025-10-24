@@ -1,176 +1,100 @@
 
-<div align="center">
-  
-<!-- FIRE ANIMATION HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=🔥+BELMIN+HARACIC+🔥;💀+FULL+STACK+DEVELOPER+💀;⚡+CODE+LIKE+A+DEMON+⚡" alt="Typing SVG" />
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://i.imgur.com/waxVImv.gif" width="100%"/>
-
-<!-- BRUTAL STATS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=belminharacic&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge&labelColor=000000" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/belminharacic?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/LEVEL+99+DEVELOPER-FF0000?style=for-the-badge&labelColor=000000" alt="Level" />
-</p>
-
-</div>
-
-## 🚨 **BRUTAL FACTS**
-> ⚠️ **WARNING:** This developer runs on 99% coffee and 1% magic
-
-```bash
-#!/bin/bash
-# BRUTAL DEVELOPER PROFILE
-echo "🔥 NAME: Belmin Haracic"
-echo "💀 TITLE: Full Stack Warrior"
-echo "⚡ SPECIALTY: Turning bugs into features"
-echo "☕ FUEL: Black coffee & chaos"
-echo "🚩 STATUS: Always coding..."
-```
-
-## 🎯 **TECH ARMORY**
-
-<div align="center">
-
-<!-- LANGUAGES -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000"/>
-
-<!-- FRONTEND -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000"/>
-
-<!-- BACKEND -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000"/>
-
-<!-- TOOLS -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000"/>
-
-</div>
-
-## 📊 **BRUTAL STATS**
-
-<div align="center">
-
-<!-- MAIN STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=belminharacic&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FF0000&border_color=FF0000&border_radius=10" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belminharacic&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&border_color=FF0000&border_radius=10" height="180em"/>
-
-<!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=belminharacic&theme=dark&background=000000&border=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" height="180em"/>
-
-</div>
-
-## 🏆 **TROPHY CASE**
+<!-- Designed to look like a futuristic portfolio with dark neon energy ⚡ -->
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=belminharacic&theme=onedark&no-frame=true&no-bg=false&margin-w=15&row=2&column=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00FFF6&center=true&vCenter=true&width=700&lines=HELLO+WORLD!+I'M+BELMIN+HARAČIĆ;FRONTEND+DEVELOPER;REACT.JS+%7C+NEXT.JS+%7C+JAVASCRIPT;WELCOME+TO+MY+CODE+REALM+🚀" />
 
-</div>
-
-## 💀 **CURRENT MISSION**
-
-```python
-class BrutalDeveloper:
-    def __init__(self):
-        self.name = "Belmin Haracic"
-        self.status = "🔥 ON FIRE 🔥"
-        self.current_mission = "Building the next big thing"
-        self.skills = ["Code", "Create", "Conquer"]
-        self.special_move = "Deploy to production on Friday"
-    
-    def unleash_power(self):
-        print("💥 DEPLOYING BRUTAL CODE 💥")
-        return "SUCCESS"
-    
-    def debug(self):
-        print("🔪 ELIMINATING BUGS 🔪")
-        return "No bugs found... suspicious"
-
-dev = BrutalDeveloper()
-dev.unleash_power()
-```
-
-## 🔥 **FEATURED PROJECTS**
-
-<div align="center">
-
-[![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=belminharacic&repo=readme-generator&theme=dark&bg_color=000000&title_color=FF0000&border_color=FF0000)](https://github.com/belminharacic/readme-generator)
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=belminharacic&repo=task-manager&theme=dark&bg_color=000000&title_color=FF0000&border_color=FF0000)](https://github.com/belminharacic/task-manager)
-
-</div>
-
-## 📈 **ACTIVITY GRAPH**
-
-<div align="center">
-
-![Belmin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=belminharacic&custom_title=Belmin's%20Brutal%20Activity&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000&area=true&hide_border=true)
-
-</div>
-
-## 🎮 **DAILY ROUTINE**
-
-```text
-🌅 MORNING:
-06:00 - Wake up and question life choices
-06:30 - Coffee injection ☕
-07:00 - Code like the world depends on it
-
-🌞 DAY:
-12:00 - Fix production bugs 🔧
-15:00 - Deploy new features 🚀
-18:00 - More coffee ☕☕
-
-🌙 NIGHT:
-20:00 - Learn new tech 📚
-23:00 - Dream in code 💤
-03:00 - Wake up with solution 💡
-```
-
-## 🌐 **CONNECT WITH ME**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/belminharacic)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000)](https://belmin-dev.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:belmin@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/belminharacic)
+<img src="https://raw.githubusercontent.com/BelminHaracic/BelminHaracic/main/banner.gif" width="100%" alt="banner"/>
 
 </div>
 
 ---
 
+<h2 align="center">⚡ DIGITAL CRAFTSMAN • REACT ENGINEER • UI CREATOR ⚡</h2>
+
+<p align="center">
+  <a href="https://belminharacic-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00FFF6?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="mailto:belmin@example.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-00FFF6?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFF6?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🧬 About Me
+
+💥 **Frontend Developer** iz Bosne i Hercegovine  
+🧠 Fokusiran na **moderni dizajn, UX i performanse**  
+⚙️ Koristim **React.js, Next.js, TailwindCSS, TypeScript**  
+🎯 Moj cilj: pretvoriti ideje u interaktivne digitalne doživljaje  
+🌌 Trenutno istražujem **Framer Motion & 3D Web (Three.js)**  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
 <div align="center">
 
-## 🐍 **WATCH THE SNAKE DEVOUR MY CODE**
-![Snake animation](https://github.com/belminharacic/belminharacic/blob/output/github-contribution-grid-snake.svg)
+#### ⚡ [🌐 Portfolio Website](https://belminharacic-portfolio.vercel.app/)
+> Moj lični digitalni svijet — čist, brz, animiran, responzivan.  
+> 💻 React + Tailwind + Framer Motion  
 
-### ⚠️ **WARNING: EXTREME CODER AHEAD**
-<img src="https://i.imgur.com/waxVImv.gif" width="100%"/>
+#### 🔥 UI Motion Experiments *(u izradi)*
+> Kolekcija mikro-animacija i interaktivnih komponenti za web.  
 
-**💀 "I don't always test my code... but when I do, I do it in production" 💀**
+#### 🧠 Code Playground *(uskoro)*
+> Showcase custom hookova, trikova i mini projekata.  
 
 </div>
-```
 
-Ovo je **ULTRA BRUTAL** verzija sa:
-- 🔥 Crveno-crna tema kao u igricama
-- 💀 Agresivni badgeovi sa crnom pozadinom
-- ⚡ Animirani divideri
-- 🎮 Gaming vibes
-- 🚨 Upozorenja i brutalni opisi
-- 📊 Stats sa tamnom temom
-- 🐍 Snake animacija
+---
 
-**BRUTALNO ZNATI ŽELJE!** 🔥💀
+### 📊 GitHub Power Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BelminHaracic&show_icons=true&theme=neon&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=BelminHaracic&theme=neon&hide_border=true" />
+</div>
+
+---
+
+### 🪄 A Touch of Aesthetics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BelminHaracic&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+### 🧠 Quote of the Code
+> "Design is intelligence made visible. Code is that intelligence brought to life."
+
+---
+
+<h3 align="center">🚀 See you in the commit history.</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/HUkOv6BNWc1HO/source.gif" width="220">
+</p>
+
+---
+
+<div align="center">
+  
+🛠️ Built with ❤️ by **Belmin Haračić**
+
+</div>
